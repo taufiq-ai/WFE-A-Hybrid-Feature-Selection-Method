@@ -1,0 +1,2 @@
+# WFE-A-Hybrid-Feature-Selection-Method
+WFE stands for 1. Wrapper 2. Filter 3. Ensemble. The repo contains a novel Hybrid Feature Selection method that reduce redundant features to improve prediction accuracy of a Machine Learning Classifier. The method combines some traditional Feature Selection Algorithm to built a new technique which can overcome the existing drawback of traditional techniques.
